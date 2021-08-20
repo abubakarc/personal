@@ -1,0 +1,159 @@
+body{
+color: #40514E;
+margin: 0;
+text-align: center;
+
+}
+
+.top-container{
+  background-color : #FDEFEF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 40px 0 20px;
+}
+
+h1{
+  padding-top: 50px;
+
+  margin-top: 0;
+   margin-bottom: 0px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+
+.webd{
+  font-weight: normal;
+}
+
+h2{
+  padding-top: 50px;
+  font-family: 'Merriweather', serif;
+    color: #66BFBF;
+
+}
+
+h3{
+  color: #11999E;
+}
+
+.a-color{
+  color: #11999E;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left : 250px;
+  bottom : 300px;
+}
+
+.top-cloud{
+  position:absolute;
+  right : 250px;
+  top : 50px;
+}
+
+.skill-row{
+  text-align: left;
+  line-height: 2;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.fsi{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.ssi{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.profile{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+.pimage{
+  width: 30%;
+}
+
+hr{
+
+  border-style: none;
+  color: #EAF6F6;
+  border-width:5px;
+  width: 5%;
+  border-top-style: dotted;
+}
+
+.intro{
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+
+.exit{
+  width: 50%;
+  margin:50px auto;
+  line-height: 2;
+}
+
+a{
+  margin: auto 10px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.footerp{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+.getit{
+  font-size: 2rem;
+}
+
+.btn {
+  margin: 200px auto;
+  background: #11CDD4;
+  background-image: -webkit-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -moz-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -ms-linear-gradient(top, #11CDD4, #11999e);
+  background-image: -o-linear-gradient(top, #11CDD4, #11999e);
+  background-image: linear-gradient(to bottom, #11CDD4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 17px;
+  text-decoration: none;
+  position: relative;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-me{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
